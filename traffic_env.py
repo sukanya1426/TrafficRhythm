@@ -13,7 +13,7 @@ class FourRoadTrafficEnv:
             data_file (str): Path to preprocessed traffic data CSV.
         """
         self.data = pd.read_csv(data_file)
-        self.actions = [(20, 0), (30, 0), (40, 0), (0, 20), (0, 30), (0, 40)]  # (green_ns, green_ew)
+        self.actions = [(20, 0), (30, 0), (40, 0), (0, 20), (0, 30), (0, 40)]  
         self.state = None
         self.current_step = 0
         self.max_steps = len(self.data)

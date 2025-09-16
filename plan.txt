@@ -1,7 +1,8 @@
 Misty-
-Working on models
+Gathering image for simulation
 
 Sami-
-Creating simualated data
+Creating a python simulation
 
 Sukanya-
+fixing prev code

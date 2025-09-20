@@ -1,6 +1,8 @@
 # 🚦 TrafficRhythm: Smart Traffic Signal Optimization Using AI for Bangladesh 2.0
 
 TrafficRhythm is an AI-powered prototype that simulates smart traffic light control to optimize traffic flow in urban areas of Bangladesh. This system dynamically adjusts signal timings based on real or simulated traffic data using machine learning and reinforcement learning.
+<img width="997" height="722" alt="image" src="https://github.com/user-attachments/assets/514bb1a3-a74b-4afc-b964-7a9be4f97919" />
+
 
 ## 🌍 Problem Statement
 
@@ -15,6 +17,8 @@ Build a **machine learning-based simulation model** that:
 - Predicts future congestion.
 - Dynamically adjusts traffic signal durations.
 - Improves traffic flow and reduces average wait times.
+  <img width="1392" height="798" alt="image" src="https://github.com/user-attachments/assets/732606bc-647e-47f0-8d6b-cec2f792c4b2" />
+
 
 ## 🛠 Features
 
